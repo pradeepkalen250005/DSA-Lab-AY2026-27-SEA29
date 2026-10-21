@@ -1,2 +1,11 @@
-# DSA-Lab-AY2026-27-SEA29
-Data Structures and Algorithms Laboratory – AY 2026–27
+## Student Information
+
+- **Student Name:** Pradeep Laxman Kale
+- **Roll Number:** SEA-29
+- **Division:** ENTC
+- **Batch:** SE
+- **Course Name:** Data Structures and Algorithms Laboratory
+- **Academic Year:** 2026–27
+- **Faculty Name:** Dr. Varsha Degaonkar Mam
+
+
